@@ -19,6 +19,8 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
 
 [2] PRODES — Coordenação-Geral de Observação da Terra. Disponível em: <http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes>.
 
-[3] MASON, H. A Taxonomy of Data Science. , 25 set. 2010.
+[3] MASON, H. A Taxonomy of Data Science. dataists, set. 25DC. Disponível em: <https://web.archive.org/web/20160220042455/http://www.dataists.com/2010/09/a-taxonomy-of-data-science/>. Acesso em: nov. 8DC
+
+‌
 
 ‌
