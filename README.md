@@ -24,7 +24,7 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
 ‌
 
 ‌
-<!-- IDEIAS 
+<!-- IDEIAS -->
  
  <!-- 1. Existe uma correlação entre conectividade e Desmatamento?
 
@@ -59,18 +59,17 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
 
 <!-- PERSISTENTES 
 
-    <!-- Análise de Centralidade 
+     Análise de Centralidade 
         Centralidade de Proximidade (Closeness Centrality):
         Centralidade Harmonic (Harmonic Centrality):
         Centralidade de PageRank:
         Centralidade de Katz:
 
 
-    -->
+    
 
 
-
-    <!-- Identificação de Cliques -->
+     Identificação de Cliques 
 
 -->
 
