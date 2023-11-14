@@ -17,9 +17,13 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
 ## Referências
 [1] PAZ, Kizzy F. T. F. Ciência de Dados Aplicada. Disponível em: <https://github.com/kterra/ciencia-de-dados-aplicada>. Acesso em: 9 nov. 2023.
 
-[2] PRODES — Coordenação-Geral de Observação da Terra. Disponível em: <http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes>.
+[2] PRODES — Coordenação-Geral de Observação da Terra. Disponível em: <http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes>. Acesso em: 9 nov. 2023.
 
-[3] MASON, H. A Taxonomy of Data Science. dataists, set. 25DC. Disponível em: <https://web.archive.org/web/20160220042455/http://www.dataists.com/2010/09/a-taxonomy-of-data-science/>. Acesso em: nov. 8DC
+[3] MASON, H. A Taxonomy of Data Science. dataists, set. 25DC. Disponível em: <https://web.archive.org/web/20160220042455/http://www.dataists.com/2010/09/a-taxonomy-of-data-science/>. Acesso em: 9 nov. 2023.
+
+‌[4] IBGE. Mapa Escolar do Estado do Amazonas, 2 jun. 2016.
+Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematicos/mapas_do_brasil/mapas_estaduais/politico/amazonas.jpg>. Acesso em: 14 nov 2023.
+‌
 
 ‌
 
@@ -57,28 +61,27 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
  -->
 
 
-<!-- PERSISTENTES 
+<!-- PERSISTENTES -->
 
-    <!-- Análise de Centralidade 
-        Centralidade de Proximidade (Closeness Centrality):
-        Centralidade Harmonic (Harmonic Centrality):
-        Centralidade de PageRank:
-        Centralidade de Katz:
+<!-- Análise de Centralidade 
+    Centralidade de Proximidade (Closeness Centrality):
+    Centralidade Harmonic (Harmonic Centrality):
+    Centralidade de PageRank:
+    Centralidade de Katz:
 
-
-    -->
-
-
-
-    <!-- Identificação de Cliques -->
 
 -->
 
 
-<!-- ESTRATÉGIAS INTERESSANTES INDEPENDENTE DE TUDO 
-    <!-- Normalização de dados de desmatamento:
-        Criação de uma escala de desmatamento em uma escala comum de 0 a 1
-        Responder a pergunta: Por quê a normalização dos dados é interessante?
-    -->
 
-    -->
+<!-- Identificação de Cliques -->
+
+
+
+<!-- ESTRATÉGIAS INTERESSANTES INDEPENDENTE DE TUDO -->
+<!-- Normalização de dados de desmatamento:
+    Criação de uma escala de desmatamento em uma escala comum de 0 a 1
+    Responder a pergunta: Por quê a normalização dos dados é interessante?
+-->
+
+  
