@@ -28,7 +28,7 @@ Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematico
 ‌
 
 ‌
-<!-- IDEIAS 
+<!-- IDEIAS -->
  
  <!-- 1. Existe uma correlação entre conectividade e Desmatamento?
 
@@ -63,18 +63,18 @@ Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematico
 
 <!-- PERSISTENTES -->
 
-<!-- Análise de Centralidade 
-    Centralidade de Proximidade (Closeness Centrality):
-    Centralidade Harmonic (Harmonic Centrality):
-    Centralidade de PageRank:
-    Centralidade de Katz:
+    <!-- Análise de Centralidade 
+        Centralidade de Proximidade (Closeness Centrality):
+        Centralidade Harmonic (Harmonic Centrality):
+        Centralidade de PageRank:
+        Centralidade de Katz:
 
 
--->
+    -->
 
 
 
-<!-- Identificação de Cliques -->
+    <!-- Identificação de Cliques -->
 
 
 
@@ -84,4 +84,4 @@ Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematico
     Responder a pergunta: Por quê a normalização dos dados é interessante?
 -->
 
-  
+    -->
