@@ -1,4 +1,5 @@
 MunicipalAdjascencyDict = {
+    
 'Urucurituba' : 
 ['Boa Vista do Ramos', 'Barreirinha', 'Itapiranga', 'Itacoatiara', 'Parintins', 'Urucara', 'Silves', 'Nhamunda'],
 
@@ -183,5 +184,6 @@ MunicipalAdjascencyDict = {
 ['Sao Paulo de OLivença', 'Jutai', 'Santo Antonio do Iça'],
 
 'Alvaraes' : 
-['Tefe', 'Carauari', 'Jurua', 'Uarini'],
+['Tefe', 'Carauari', 'Jurua', 'Uarini']
+
 }
