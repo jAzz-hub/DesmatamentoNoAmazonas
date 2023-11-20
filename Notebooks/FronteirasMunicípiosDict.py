@@ -10,7 +10,7 @@ MunicipalAdjascencyDict = {
 ['Manaa','Fonte Boa','Jurua', 'Alvaraes','Tefe'],
 
 'Tonantins' : 
-['Japura', 'Santo Antonio do Iça', 'Fonte Boa', 'Jutai'],
+['Japura', 'Santo Antonio do Ica', 'Fonte Boa', 'Jutai'],
 
 'Tefe' : 
 ['Tapaua', 'Manaa', 'Carauari', 'Jurua', 'Alvaraes', 'Uarini'],
@@ -19,7 +19,7 @@ MunicipalAdjascencyDict = {
 ['Itamarati', 'Pauini', 'Labrea', 'Canutama', 'Carauari', 'Tefe', 'Coari', 'Anori', 'Beruri', 'Manicore', 'Humaita'],
 
 'Tabatinga' : 
-['Benjamin Constant', 'Santo Antonio do Iça', 'Sao Paulo de Olivença'],
+['Benjamin Constant', 'Santo Antonio do Ica', 'Sao Paulo de Olivenca'],
 
 'Silves' : 
 [ 'Urucurituba', 'Itacoatiara', 'Itapiranga'],
@@ -28,22 +28,22 @@ MunicipalAdjascencyDict = {
 ['Urucura', 'Presidente Figueiredo', 'Itapiranga'],
 
 'Sao Paulo de Olivenca' : 
-['Benjamin Constant', 'Jutai', 'Tabatinga', 'Santo Antonio do Iça', 'Amatur'],
+['Benjamin Constant', 'Jutai', 'Tabatinga', 'Santo Antonio do Ica', 'Amatura'],
 
 'Sao Gabriel de Cachoeira' : 
 ['Japura', 'Santa Isabel do Rio Negro'],
 
 'Santo Antonio do Ica' : 
-['Sao Paulo de Olivença', 'Tabatinga', 'Amatur' , 'Tonantins', 'Jutai', 'Japura'],
+['Sao Paulo de Olivenca', 'Tabatinga', 'Amatura' , 'Tonantins', 'Jutai', 'Japura'],
 
 'Santa Isabel do Rio Negro' : 
-['Sao Gabriel da Cachoeira', 'Japura', 'Manaa', 'Barcelos'],
+['Sao Gabriel de Cachoeira', 'Japura', 'Manaa', 'Barcelos'],
 
 'Rio Preto da Eva' : 
 ['Itacoatiara', 'Manaus', 'Itapiranga', 'Presidente Figueiredo'],
 
 'Presidente Figueiredo' : 
-['Rio Preto de Eva', 'Manaus', 'Novo Airao', 'Itapiranga', 'Sao Sebastiao do Uatuma', 'Urucua'],
+['Rio Preto da Eva', 'Manaus', 'Novo Airao', 'Itapiranga', 'Sao Sebastiao do Uatuma', 'Urucua'],
 
 'Pauini' : #15
 ['Boca do Acre', 'Envira', 'Itamarati', 'Eirunepe','Tapaua', 'Labrea'],
@@ -85,16 +85,16 @@ MunicipalAdjascencyDict = {
 ['Boca do Acre', 'Pauini', 'Itamarati', 'Tapaua', 'Canutama'],
 
 'Jutai' :  
-['Itamarati', 'Eirunepe', 'Benjamin Constant', 'Sao Paulo de Olivença','Amatur','Santo Antonio do Iça', 'Tonantins', 'Fonte Boa', 'Jurua', 'Carauari'],
+['Itamarati', 'Eirunepe', 'Benjamin Constant', 'Sao Paulo de Olivenca','Amatura','Santo Antonio do Ica', 'Tonantins', 'Fonte Boa', 'Jurua', 'Carauari'],
 
 'Jurua' :  
 ['Carauari', 'Jutai', 'Fonte Boa', 'Uarini', 'Alvaraes', 'Tefe'],
 
 'Japura' : 
-['Santo Antonio de Iça',' Tonantins','Fonte Boa', 'Manaa','Santa Isabel do Rio Negro',' Sao Gabriel de Cachoeira'],
+['Santo Antonio do Ica',' Tonantins','Fonte Boa', 'Manaa','Santa Isabel do Rio Negro',' Sao Gabriel de Cachoeira'],
 
 'Itapiranga' :  
-['Presidente Figueiredo','Sao Sebastiao do Uatuma','Urucura','Urucurituba', 'Silves', 'Rio Preto de Eva', 'Itacoatiara'],
+['Presidente Figueiredo','Sao Sebastiao do Uatuma','Urucura','Urucurituba', 'Silves', 'Rio Preto da Eva', 'Itacoatiara'],
 
 'Itamarati' : 
 ['Envira', 'Eirunepe', 'Jutai', 'Carauari', 'Tapua','Labrea','Pauini'],
@@ -157,7 +157,7 @@ MunicipalAdjascencyDict = {
 ['Manicore', 'Tapua', 'Anori', 'Anama', 'Manacapuru', 'Manaquiri'],
 
 'Benjamin Constant' : 
-['Atalaia do Norte', 'Ipixuna', 'Eirunepe', 'Jutai', 'Sao Paulo de Olivença', 'Tabatinga'],
+['Atalaia do Norte', 'Ipixuna', 'Eirunepe', 'Jutai', 'Sao Paulo de Olivenca', 'Tabatinga'],
 
 'Barreirinha' : 
 ['Maues', 'Boa Vista do Ramos', 'Urucurituba', 'Parintins'],
@@ -180,8 +180,8 @@ MunicipalAdjascencyDict = {
 'Anama' :  
 ['Manacapuru', 'Beruri',' Anori','Codajas','Caapiranga'],
 
-'Amatur' : 
-['Sao Paulo de OLivença', 'Jutai', 'Santo Antonio do Iça'],
+'Amatura' : 
+['Sao Paulo de Olivenca', 'Jutai', 'Santo Antonio do Ica'],
 
 'Alvaraes' : 
 ['Tefe', 'Carauari', 'Jurua', 'Uarini']
