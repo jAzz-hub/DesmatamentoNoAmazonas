@@ -24,6 +24,7 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
 ‌[4] IBGE. Mapa Escolar do Estado do Amazonas, 2 jun. 2016.
 Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematicos/mapas_do_brasil/mapas_estaduais/politico/amazonas.jpg>. Acesso em: 14 nov 2023.
 ‌
+‌[5] KRATOCHVÍL, J.; NEŠETŘIL, J. INDEPENDENT SET and CLIQUE problems in intersection-defined classes of graphs. v. Vol. 31, p. 85--93, 1990. Disponível em: <https://dml.cz/bitstream/handle/10338.dmlcz/106821/CommentatMathUnivCarol_031-1990-1_11.pdf>. Acesso em: 20 nov 2023.
 
 ‌
 
