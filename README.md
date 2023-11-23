@@ -15,14 +15,19 @@ O projeto seguirá o ciclo de vida [OSEMN(Obtain Scrub Explore Model iNterpret)]
 
 
 ## Referências
+
 [1] PAZ, Kizzy F. T. F. Ciência de Dados Aplicada. Disponível em: <https://github.com/kterra/ciencia-de-dados-aplicada>. Acesso em: 9 nov. 2023.
+
 
 [2] PRODES — Coordenação-Geral de Observação da Terra. Disponível em: <http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes>. Acesso em: 9 nov. 2023.
 
+
 [3] MASON, H. A Taxonomy of Data Science. dataists, set. 25DC. Disponível em: <https://web.archive.org/web/20160220042455/http://www.dataists.com/2010/09/a-taxonomy-of-data-science/>. Acesso em: 9 nov. 2023.
+
 
 ‌[4] IBGE. Mapa Escolar do Estado do Amazonas, 2 jun. 2016.
 Disponível em: <https://geoftp.ibge.gov.br/produtos_educacionais/mapas_tematicos/mapas_do_brasil/mapas_estaduais/politico/amazonas.jpg>. Acesso em: 14 nov 2023.
+
 ‌
 ‌[5] KRATOCHVÍL, J.; NEŠETŘIL, J. INDEPENDENT SET and CLIQUE problems in intersection-defined classes of graphs. v. Vol. 31, p. 85--93, 1990. Disponível em: <https://dml.cz/bitstream/handle/10338.dmlcz/106821/CommentatMathUnivCarol_031-1990-1_11.pdf>. Acesso em: 20 nov 2023.
 
