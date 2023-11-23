@@ -4,29 +4,166 @@
     <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Latitude" type="double" />
+      <attribute id="1" title="Longitude" type="double" />
+      <attribute id="2" title="Km2_deforestation" type="double" />
+    </attributes>
     <nodes>
-      <node id="Rio Preto da Eva" label="Rio Preto da Eva" />
-      <node id="Itacoatiara" label="Itacoatiara" />
-      <node id="Manaus" label="Manaus" />
-      <node id="Presidente Figueiredo" label="Presidente Figueiredo" />
-      <node id="Parintins" label="Parintins" />
-      <node id="Nhamunda" label="Nhamunda" />
-      <node id="Barreirinha" label="Barreirinha" />
-      <node id="Novo Aripuana" label="Novo Aripuana" />
-      <node id="Manicore" label="Manicore" />
-      <node id="Apui" label="Apui" />
-      <node id="Borba" label="Borba" />
-      <node id="Maues" label="Maues" />
-      <node id="Humaita" label="Humaita" />
-      <node id="Manacapuru" label="Manacapuru" />
-      <node id="Careiro" label="Careiro" />
-      <node id="Manaquiri" label="Manaquiri" />
-      <node id="Labrea" label="Labrea" />
-      <node id="Boca do Acre" label="Boca do Acre" />
-      <node id="Canutama" label="Canutama" />
-      <node id="Autazes" label="Autazes" />
-      <node id="Coari" label="Coari" />
-      <node id="Tefe" label="Tefe" />
+      <node id="Rio Preto da Eva" label="Rio Preto da Eva">
+        <attvalues>
+          <attvalue for="0" value="-2.50853" />
+          <attvalue for="1" value="-59.60122" />
+          <attvalue for="2" value="580.9" />
+        </attvalues>
+      </node>
+      <node id="Itacoatiara" label="Itacoatiara">
+        <attvalues>
+          <attvalue for="0" value="-3.13511" />
+          <attvalue for="1" value="-58.81276" />
+          <attvalue for="2" value="1769.7" />
+        </attvalues>
+      </node>
+      <node id="Manaus" label="Manaus">
+        <attvalues>
+          <attvalue for="0" value="-2.5729" />
+          <attvalue for="1" value="-60.37242" />
+          <attvalue for="2" value="1259.6" />
+        </attvalues>
+      </node>
+      <node id="Presidente Figueiredo" label="Presidente Figueiredo">
+        <attvalues>
+          <attvalue for="0" value="-0.65847" />
+          <attvalue for="1" value="-60.17004" />
+          <attvalue for="2" value="759.3" />
+        </attvalues>
+      </node>
+      <node id="Parintins" label="Parintins">
+        <attvalues>
+          <attvalue for="0" value="-2.78735" />
+          <attvalue for="1" value="-56.68566" />
+          <attvalue for="2" value="981.7" />
+        </attvalues>
+      </node>
+      <node id="Nhamunda" label="Nhamunda">
+        <attvalues>
+          <attvalue for="0" value="-1.08094" />
+          <attvalue for="1" value="-58.4439" />
+          <attvalue for="2" value="492.5" />
+        </attvalues>
+      </node>
+      <node id="Barreirinha" label="Barreirinha">
+        <attvalues>
+          <attvalue for="0" value="-3.13292" />
+          <attvalue for="1" value="-57.23915" />
+          <attvalue for="2" value="803.0" />
+        </attvalues>
+      </node>
+      <node id="Novo Aripuana" label="Novo Aripuana">
+        <attvalues>
+          <attvalue for="0" value="-6.83379" />
+          <attvalue for="1" value="-60.23604" />
+          <attvalue for="2" value="1208.8" />
+        </attvalues>
+      </node>
+      <node id="Manicore" label="Manicore">
+        <attvalues>
+          <attvalue for="0" value="-6.78709" />
+          <attvalue for="1" value="-61.11001" />
+          <attvalue for="2" value="1911.1" />
+        </attvalues>
+      </node>
+      <node id="Apui" label="Apui">
+        <attvalues>
+          <attvalue for="0" value="-7.59202" />
+          <attvalue for="1" value="-59.44152" />
+          <attvalue for="2" value="2290.1" />
+        </attvalues>
+      </node>
+      <node id="Borba" label="Borba">
+        <attvalues>
+          <attvalue for="0" value="-5.33176" />
+          <attvalue for="1" value="-59.23777" />
+          <attvalue for="2" value="548.2" />
+        </attvalues>
+      </node>
+      <node id="Maues" label="Maues">
+        <attvalues>
+          <attvalue for="0" value="-5.24148" />
+          <attvalue for="1" value="-58.19462" />
+          <attvalue for="2" value="1405.2" />
+        </attvalues>
+      </node>
+      <node id="Humaita" label="Humaita">
+        <attvalues>
+          <attvalue for="0" value="-7.51084" />
+          <attvalue for="1" value="-62.5992" />
+          <attvalue for="2" value="745.2" />
+        </attvalues>
+      </node>
+      <node id="Manacapuru" label="Manacapuru">
+        <attvalues>
+          <attvalue for="0" value="-3.27671" />
+          <attvalue for="1" value="-60.71178" />
+          <attvalue for="2" value="810.0" />
+        </attvalues>
+      </node>
+      <node id="Careiro" label="Careiro">
+        <attvalues>
+          <attvalue for="0" value="-3.749" />
+          <attvalue for="1" value="-60.14701" />
+          <attvalue for="2" value="1126.9" />
+        </attvalues>
+      </node>
+      <node id="Manaquiri" label="Manaquiri">
+        <attvalues>
+          <attvalue for="0" value="-3.73889" />
+          <attvalue for="1" value="-60.65552" />
+          <attvalue for="2" value="499.4" />
+        </attvalues>
+      </node>
+      <node id="Labrea" label="Labrea">
+        <attvalues>
+          <attvalue for="0" value="-8.38295" />
+          <attvalue for="1" value="-65.70994" />
+          <attvalue for="2" value="4175.7" />
+        </attvalues>
+      </node>
+      <node id="Boca do Acre" label="Boca do Acre">
+        <attvalues>
+          <attvalue for="0" value="-8.81858" />
+          <attvalue for="1" value="-68.00168" />
+          <attvalue for="2" value="2410.8" />
+        </attvalues>
+      </node>
+      <node id="Canutama" label="Canutama">
+        <attvalues>
+          <attvalue for="0" value="-7.45596" />
+          <attvalue for="1" value="-63.90278" />
+          <attvalue for="2" value="1079.6" />
+        </attvalues>
+      </node>
+      <node id="Autazes" label="Autazes">
+        <attvalues>
+          <attvalue for="0" value="-3.83163" />
+          <attvalue for="1" value="-59.45109" />
+          <attvalue for="2" value="1310.3" />
+        </attvalues>
+      </node>
+      <node id="Coari" label="Coari">
+        <attvalues>
+          <attvalue for="0" value="-4.03545" />
+          <attvalue for="1" value="-63.53466" />
+          <attvalue for="2" value="783.4" />
+        </attvalues>
+      </node>
+      <node id="Tefe" label="Tefe">
+        <attvalues>
+          <attvalue for="0" value="-4.41301" />
+          <attvalue for="1" value="-65.57764" />
+          <attvalue for="2" value="669.1" />
+        </attvalues>
+      </node>
     </nodes>
     <edges>
       <edge source="Rio Preto da Eva" target="Itacoatiara" id="0" />
