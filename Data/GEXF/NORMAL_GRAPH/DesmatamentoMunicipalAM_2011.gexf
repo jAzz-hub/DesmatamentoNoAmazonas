@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2023-11-22">
+  <meta lastmodifieddate="2023-11-23">
     <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -449,837 +449,837 @@
       </node>
     </nodes>
     <edges>
-      <edge source="Urucurituba" target="Boa Vista do Ramos" id="0">
+      <edge source="Urucurituba" target="Boa Vista do Ramos" id="0" weight="300.1">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Barreirinha" id="1">
+      <edge source="Urucurituba" target="Barreirinha" id="1" weight="878.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Itapiranga" id="2">
+      <edge source="Urucurituba" target="Itapiranga" id="2" weight="232.1">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Itacoatiara" id="3">
+      <edge source="Urucurituba" target="Itacoatiara" id="3" weight="1832.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Parintins" id="4">
+      <edge source="Urucurituba" target="Parintins" id="4" weight="1062.1">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Urucara" id="5">
+      <edge source="Urucurituba" target="Urucara" id="5" weight="435.0">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Silves" id="6">
+      <edge source="Urucurituba" target="Silves" id="6" weight="526.1">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucurituba" target="Nhamunda" id="7">
+      <edge source="Urucurituba" target="Nhamunda" id="7" weight="573.6">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Boa Vista do Ramos" target="Maues" id="8">
+      <edge source="Boa Vista do Ramos" target="Maues" id="8" weight="1521.9">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Boa Vista do Ramos" target="Itacoatiara" id="9">
+      <edge source="Boa Vista do Ramos" target="Itacoatiara" id="9" weight="1942.5">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Boa Vista do Ramos" target="Barreirinha" id="10">
+      <edge source="Boa Vista do Ramos" target="Barreirinha" id="10" weight="988.4">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Barreirinha" target="Parintins" id="11">
-        <attvalues>
-          <attvalue for="3" value="true" />
-        </attvalues>
-      </edge>
-      <edge source="Barreirinha" target="Maues" id="12">
+      <edge source="Barreirinha" target="Parintins" id="11" weight="1750.4">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Itapiranga" target="Urucara" id="13">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itapiranga" target="Silves" id="14">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itapiranga" target="Sao Sebastiao do Uatuma" id="15">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itapiranga" target="Rio Preto da Eva" id="16">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itapiranga" target="Presidente Figueiredo" id="17">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itapiranga" target="Itacoatiara" id="18">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itacoatiara" target="Silves" id="19">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itacoatiara" target="Rio Preto da Eva" id="20">
+      <edge source="Barreirinha" target="Maues" id="12" weight="2100.5">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Itacoatiara" target="Nova Olinda do Norte" id="21">
+      <edge source="Itapiranga" target="Urucara" id="13" weight="476.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Itacoatiara" target="Maues" id="22">
-        <attvalues>
-          <attvalue for="3" value="true" />
-        </attvalues>
-      </edge>
-      <edge source="Itacoatiara" target="Manaus" id="23">
-        <attvalues>
-          <attvalue for="3" value="true" />
-        </attvalues>
-      </edge>
-      <edge source="Itacoatiara" target="Autazes" id="24">
-        <attvalues>
-          <attvalue for="3" value="true" />
-        </attvalues>
-      </edge>
-      <edge source="Itacoatiara" target="Careiro da Varzea" id="25">
+      <edge source="Itapiranga" target="Silves" id="14" weight="567.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Parintins" target="Nhamunda" id="26">
-        <attvalues>
-          <attvalue for="3" value="true" />
-        </attvalues>
-      </edge>
-      <edge source="Urucara" target="Nhamunda" id="27">
+      <edge source="Itapiranga" target="Sao Sebastiao do Uatuma" id="15" weight="342.3">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucara" target="Sao Sebastiao do Uatuma" id="28">
+      <edge source="Itapiranga" target="Rio Preto da Eva" id="16" weight="707.5">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Urucara" target="Presidente Figueiredo" id="29">
+      <edge source="Itapiranga" target="Presidente Figueiredo" id="17" weight="866.5">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Nhamunda" target="Maues" id="30">
+      <edge source="Itapiranga" target="Itacoatiara" id="18" weight="1874.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Itacoatiara" target="Silves" id="19" weight="2168.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Itacoatiara" target="Rio Preto da Eva" id="20" weight="2308.2">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Sao Sebastiao do Uatuma" target="Presidente Figueiredo" id="31">
+      <edge source="Itacoatiara" target="Nova Olinda do Norte" id="21" weight="2156.6">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Presidente Figueiredo" target="Rio Preto da Eva" id="32">
-        <attvalues>
-          <attvalue for="3" value="true" />
-        </attvalues>
-      </edge>
-      <edge source="Presidente Figueiredo" target="Manaus" id="33">
+      <edge source="Itacoatiara" target="Maues" id="22" weight="3054.6">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Presidente Figueiredo" target="Novo Airao" id="34">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Uarini" target="Maraa" id="35">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Uarini" target="Fonte Boa" id="36">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Uarini" target="Jurua" id="37">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Uarini" target="Alvaraes" id="38">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Uarini" target="Tefe" id="39">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Tefe" id="40">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Santa Isabel do Rio Negro" id="41">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Fonte Boa" id="42">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Japura" id="43">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Barcelos" id="44">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Codajas" id="45">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Maraa" target="Coari" id="46">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Fonte Boa" target="Tonantins" id="47">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Fonte Boa" target="Jutai" id="48">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Fonte Boa" target="Jurua" id="49">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Fonte Boa" target="Japura" id="50">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jurua" target="Tefe" id="51">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jurua" target="Jutai" id="52">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jurua" target="Carauari" id="53">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jurua" target="Alvaraes" id="54">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Alvaraes" target="Tefe" id="55">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Alvaraes" target="Carauari" id="56">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tefe" target="Tapaua" id="57">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tefe" target="Carauari" id="58">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tefe" target="Coari" id="59">
+      <edge source="Itacoatiara" target="Manaus" id="23" weight="2985.8">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Tonantins" target="Japura" id="60">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tonantins" target="Santo Antonio do Ica" id="61">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tonantins" target="Jutai" id="62">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Japura" target="Sao Gabriel da Cachoeira" id="63">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Japura" target="Santo Antonio do Ica" id="64">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Japura" target="Santa Isabel do Rio Negro" id="65">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Santo Antonio do Ica" target="Tabatinga" id="66">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Santo Antonio do Ica" target="Sao Paulo de Olivenca" id="67">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Santo Antonio do Ica" target="Amatura" id="68">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Santo Antonio do Ica" target="Jutai" id="69">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jutai" target="Sao Paulo de Olivenca" id="70">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jutai" target="Itamarati" id="71">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jutai" target="Eirunepe" id="72">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jutai" target="Benjamin Constant" id="73">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jutai" target="Amatura" id="74">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Jutai" target="Carauari" id="75">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Itamarati" id="76">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Pauini" id="77">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Labrea" id="78">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Canutama" id="79">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Carauari" id="80">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Coari" id="81">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Anori" id="82">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Beruri" id="83">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Manicore" id="84">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Tapaua" target="Humaita" id="85">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Carauari" target="Itamarati" id="86">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itamarati" target="Pauini" id="87">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itamarati" target="Labrea" id="88">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itamarati" target="Envira" id="89">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Itamarati" target="Eirunepe" id="90">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Pauini" target="Boca do Acre" id="91">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Pauini" target="Envira" id="92">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Pauini" target="Eirunepe" id="93">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Pauini" target="Labrea" id="94">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Labrea" target="Boca do Acre" id="95">
+      <edge source="Itacoatiara" target="Autazes" id="24" weight="2980.4">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Labrea" target="Canutama" id="96">
+      <edge source="Itacoatiara" target="Careiro da Varzea" id="25" weight="2264.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Parintins" target="Nhamunda" id="26" weight="1445.3">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Canutama" target="Humaita" id="97">
+      <edge source="Urucara" target="Nhamunda" id="27" weight="818.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Urucara" target="Sao Sebastiao do Uatuma" id="28" weight="545.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Urucara" target="Presidente Figueiredo" id="29" weight="1069.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Nhamunda" target="Maues" id="30" weight="1795.4">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Coari" target="Codajas" id="98">
+      <edge source="Sao Sebastiao do Uatuma" target="Presidente Figueiredo" id="31" weight="935.0">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Coari" target="Anori" id="99">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Coari" target="Barcelos" id="100">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Anori" target="Manacapuru" id="101">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Anori" target="Codajas" id="102">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Anori" target="Beruri" id="103">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Anori" target="Anama" id="104">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Beruri" target="Manicore" id="105">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Beruri" target="Manaquiri" id="106">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Beruri" target="Manacapuru" id="107">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Beruri" target="Borba" id="108">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Beruri" target="Anama" id="109">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Manicore" target="Novo Aripuana" id="110">
+      <edge source="Presidente Figueiredo" target="Rio Preto da Eva" id="32" weight="1300.2">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manicore" target="Humaita" id="111">
+      <edge source="Presidente Figueiredo" target="Manaus" id="33" weight="1977.8">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manicore" target="Borba" id="112">
+      <edge source="Presidente Figueiredo" target="Novo Airao" id="34" weight="847.6">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Uarini" target="Maraa" id="35" weight="359.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Uarini" target="Fonte Boa" id="36" weight="345.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Uarini" target="Jurua" id="37" weight="393.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Uarini" target="Alvaraes" id="38" weight="566.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Uarini" target="Tefe" id="39" weight="882.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Tefe" id="40" weight="752.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Santa Isabel do Rio Negro" id="41" weight="330.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Fonte Boa" id="42" weight="215.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Japura" id="43" weight="172.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Barcelos" id="44" weight="317.6">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Codajas" id="45" weight="377.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Maraa" target="Coari" id="46" weight="886.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Fonte Boa" target="Tonantins" id="47" weight="184.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Fonte Boa" target="Jutai" id="48" weight="337.9">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Fonte Boa" target="Jurua" id="49" weight="249.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Fonte Boa" target="Japura" id="50" weight="158.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jurua" target="Tefe" id="51" weight="786.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jurua" target="Jutai" id="52" weight="386.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jurua" target="Carauari" id="53" weight="440.9">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jurua" target="Alvaraes" id="54" weight="470.9">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Alvaraes" target="Tefe" id="55" weight="959.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Alvaraes" target="Carauari" id="56" weight="614.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tefe" target="Tapaua" id="57" weight="953.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tefe" target="Carauari" id="58" weight="929.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tefe" target="Coari" id="59" weight="1408.7">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Tabatinga" target="Benjamin Constant" id="113">
+      <edge source="Tonantins" target="Japura" id="60" weight="141.2">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Tabatinga" target="Sao Paulo de Olivenca" id="114">
+      <edge source="Tonantins" target="Santo Antonio do Ica" id="61" weight="220.6">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Benjamin Constant" target="Sao Paulo de Olivenca" id="115">
+      <edge source="Tonantins" target="Jutai" id="62" weight="320.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Benjamin Constant" target="Ipixuna" id="116">
+      <edge source="Japura" target="Sao Gabriel da Cachoeira" id="63" weight="1257.1">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Benjamin Constant" target="Eirunepe" id="117">
+      <edge source="Japura" target="Santo Antonio do Ica" id="64" weight="194.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Benjamin Constant" target="Atalaia do Norte" id="118">
+      <edge source="Japura" target="Santa Isabel do Rio Negro" id="65" weight="272.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Sao Paulo de Olivenca" target="Amatura" id="119">
+      <edge source="Santo Antonio do Ica" target="Tabatinga" id="66" weight="294.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Sao Gabriel da Cachoeira" target="Santa Isabel do Rio Negro" id="120">
+      <edge source="Santo Antonio do Ica" target="Sao Paulo de Olivenca" id="67" weight="314.2">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Santa Isabel do Rio Negro" target="Barcelos" id="121">
+      <edge source="Santo Antonio do Ica" target="Amatura" id="68" weight="251.1">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Barcelos" target="Novo Airao" id="122">
+      <edge source="Santo Antonio do Ica" target="Jutai" id="69" weight="374.3">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Barcelos" target="Codajas" id="123">
+      <edge source="Jutai" target="Sao Paulo de Olivenca" id="70" weight="414.3">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Rio Preto da Eva" target="Manaus" id="124">
+      <edge source="Jutai" target="Itamarati" id="71" weight="363.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jutai" target="Eirunepe" id="72" weight="612.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jutai" target="Benjamin Constant" id="73" weight="425.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jutai" target="Amatura" id="74" weight="351.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Jutai" target="Carauari" id="75" weight="529.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Itamarati" id="76" weight="442.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Pauini" id="77" weight="541.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Labrea" id="78" weight="3585.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Canutama" id="79" weight="1255.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Carauari" id="80" weight="608.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Coari" id="81" weight="1087.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Anori" id="82" weight="396.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Beruri" id="83" weight="528.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Manicore" id="84" weight="1934.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tapaua" target="Humaita" id="85" weight="1001.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Carauari" target="Itamarati" id="86" weight="418.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Itamarati" target="Pauini" id="87" weight="351.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Itamarati" target="Labrea" id="88" weight="3395.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Itamarati" target="Envira" id="89" weight="386.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Itamarati" target="Eirunepe" id="90" weight="501.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Pauini" target="Boca do Acre" id="91" weight="2341.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Pauini" target="Envira" id="92" weight="486.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Pauini" target="Eirunepe" id="93" weight="600.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Pauini" target="Labrea" id="94" weight="3494.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Labrea" target="Boca do Acre" id="95" weight="5385.4">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manaus" target="Novo Airao" id="125">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Manaus" target="Manacapuru" id="126">
+      <edge source="Labrea" target="Canutama" id="96" weight="4208.7">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manaus" target="Careiro" id="127">
+      <edge source="Canutama" target="Humaita" id="97" weight="1625.2">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manaus" target="Careiro da Varzea" id="128">
+      <edge source="Coari" target="Codajas" id="98" weight="1033.2">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Manaus" target="Iranduba" id="129">
+      <edge source="Coari" target="Anori" id="99" weight="851.2">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Manaus" target="Manaquiri" id="130">
+      <edge source="Coari" target="Barcelos" id="100" weight="973.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Anori" target="Manacapuru" id="101" weight="871.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Anori" target="Codajas" id="102" weight="342.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Anori" target="Beruri" id="103" weight="292.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Anori" target="Anama" id="104" weight="277.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Beruri" target="Manicore" id="105" weight="1830.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Beruri" target="Manaquiri" id="106" weight="706.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Beruri" target="Manacapuru" id="107" weight="1003.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Beruri" target="Borba" id="108" weight="747.9">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Beruri" target="Anama" id="109" weight="409.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Manicore" target="Novo Aripuana" id="110" weight="2533.5">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manaus" target="Autazes" id="131">
+      <edge source="Manicore" target="Humaita" id="111" weight="2303.5">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Novo Airao" target="Codajas" id="132">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Novo Airao" target="Caapiranga" id="133">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Novo Airao" target="Manacapuru" id="134">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Novo Airao" target="Iranduba" id="135">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Envira" target="Eirunepe" id="136">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Eirunepe" target="Ipixuna" id="137">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Novo Aripuana" target="Apui" id="138">
+      <edge source="Manicore" target="Borba" id="112" weight="2153.6">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Novo Aripuana" target="Borba" id="139">
+      <edge source="Tabatinga" target="Benjamin Constant" id="113" weight="346.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Tabatinga" target="Sao Paulo de Olivenca" id="114" weight="334.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Benjamin Constant" target="Sao Paulo de Olivenca" id="115" weight="365.6">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Benjamin Constant" target="Ipixuna" id="116" weight="403.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Benjamin Constant" target="Eirunepe" id="117" weight="564.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Benjamin Constant" target="Atalaia do Norte" id="118" weight="427.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Sao Paulo de Olivenca" target="Amatura" id="119" weight="291.1">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Sao Gabriel da Cachoeira" target="Santa Isabel do Rio Negro" id="120" weight="1414.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Santa Isabel do Rio Negro" target="Barcelos" id="121" weight="417.6">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Barcelos" target="Novo Airao" id="122" weight="320.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Barcelos" target="Codajas" id="123" weight="464.7">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Rio Preto da Eva" target="Manaus" id="124" weight="1818.8">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Apui" target="Maues" id="140">
+      <edge source="Manaus" target="Novo Airao" id="125" weight="1366.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Manacapuru" id="126" weight="2039.2">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Apui" target="Borba" id="141">
+      <edge source="Manaus" target="Careiro" id="127" weight="2362.9">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Borba" target="Nova Olinda do Norte" id="142">
+      <edge source="Manaus" target="Careiro da Varzea" id="128" weight="1774.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Borba" target="Maues" id="143">
+      <edge source="Manaus" target="Iranduba" id="129" weight="1730.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Manaquiri" id="130" weight="1742.7">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Borba" target="Manaquiri" id="144">
+      <edge source="Manaus" target="Autazes" id="131" weight="2491.0">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Borba" target="Careiro" id="145">
+      <edge source="Novo Airao" target="Codajas" id="132" weight="380.2">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Airao" target="Caapiranga" id="133" weight="358.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Airao" target="Manacapuru" id="134" weight="909.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Airao" target="Iranduba" id="135" weight="599.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Envira" target="Eirunepe" id="136" weight="636.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Eirunepe" target="Ipixuna" id="137" weight="590.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Aripuana" target="Apui" id="138" weight="2695.8">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Borba" target="Autazes" id="146">
+      <edge source="Novo Aripuana" target="Borba" id="139" weight="1451.3">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Codajas" target="Anama" id="147">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Codajas" target="Caapiranga" id="148">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Caapiranga" target="Manacapuru" id="149">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Caapiranga" target="Anama" id="150">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Manacapuru" target="Manaquiri" id="151">
+      <edge source="Apui" target="Maues" id="140" weight="3097.2">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Manacapuru" target="Anama" id="152">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Manacapuru" target="Iranduba" id="153">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Manacapuru" target="Careiro" id="154">
+      <edge source="Apui" target="Borba" id="141" weight="2315.9">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Nova Olinda do Norte" target="Maues" id="155">
+      <edge source="Borba" target="Nova Olinda do Norte" id="142" weight="954.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Nova Olinda do Norte" target="Autazes" id="156">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Autazes" target="Careiro da Varzea" id="157">
-        <attvalues>
-          <attvalue for="3" value="false" />
-        </attvalues>
-      </edge>
-      <edge source="Autazes" target="Careiro" id="158">
+      <edge source="Borba" target="Maues" id="143" weight="1852.7">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Careiro" target="Manaquiri" id="159">
+      <edge source="Borba" target="Manaquiri" id="144" weight="1030.2">
         <attvalues>
           <attvalue for="3" value="true" />
         </attvalues>
       </edge>
-      <edge source="Careiro" target="Iranduba" id="160">
+      <edge source="Borba" target="Careiro" id="145" weight="1650.4">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Borba" target="Autazes" id="146" weight="1778.5">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Codajas" target="Anama" id="147" weight="459.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Careiro" target="Careiro da Varzea" id="161">
+      <edge source="Codajas" target="Caapiranga" id="148" weight="503.0">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Careiro da Varzea" target="Iranduba" id="162">
+      <edge source="Caapiranga" target="Manacapuru" id="149" weight="1031.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Iranduba" target="Manaquiri" id="163">
+      <edge source="Caapiranga" target="Anama" id="150" weight="438.3">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Ipixuna" target="Atalaia do Norte" id="164">
+      <edge source="Manacapuru" target="Manaquiri" id="151" weight="1285.5">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manacapuru" target="Anama" id="152" weight="988.5">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Ipixuna" target="Guajara" id="165">
+      <edge source="Manacapuru" target="Iranduba" id="153" weight="1272.8">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>
       </edge>
-      <edge source="Atalaia do Norte" target="Guajara" id="166">
+      <edge source="Manacapuru" target="Careiro" id="154" weight="1905.7">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Nova Olinda do Norte" target="Maues" id="155" weight="1736.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Nova Olinda do Norte" target="Autazes" id="156" weight="1661.8">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Autazes" target="Careiro da Varzea" id="157" weight="1769.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Autazes" target="Careiro" id="158" weight="2357.5">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Careiro" target="Manaquiri" id="159" weight="1609.2">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Careiro" target="Iranduba" id="160" weight="1596.5">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Careiro" target="Careiro da Varzea" id="161" weight="1641.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Careiro da Varzea" target="Iranduba" id="162" weight="1008.4">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Iranduba" target="Manaquiri" id="163" weight="976.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Ipixuna" target="Atalaia do Norte" id="164" weight="454.3">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Ipixuna" target="Guajara" id="165" weight="690.0">
+        <attvalues>
+          <attvalue for="3" value="false" />
+        </attvalues>
+      </edge>
+      <edge source="Atalaia do Norte" target="Guajara" id="166" weight="713.7">
         <attvalues>
           <attvalue for="3" value="false" />
         </attvalues>

@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2023-11-22">
+  <meta lastmodifieddate="2023-11-23">
     <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="edge" type="boolean" />
+    </attributes>
     <attributes mode="static" class="node">
       <attribute id="0" title="Latitude" type="double" />
       <attribute id="1" title="Longitude" type="double" />
@@ -166,40 +169,176 @@
       </node>
     </nodes>
     <edges>
-      <edge source="Rio Preto da Eva" target="Itacoatiara" id="0" />
-      <edge source="Rio Preto da Eva" target="Manaus" id="1" />
-      <edge source="Rio Preto da Eva" target="Presidente Figueiredo" id="2" />
-      <edge source="Itacoatiara" target="Maues" id="3" />
-      <edge source="Itacoatiara" target="Manaus" id="4" />
-      <edge source="Itacoatiara" target="Autazes" id="5" />
-      <edge source="Manaus" target="Presidente Figueiredo" id="6" />
-      <edge source="Manaus" target="Manacapuru" id="7" />
-      <edge source="Manaus" target="Careiro" id="8" />
-      <edge source="Manaus" target="Manaquiri" id="9" />
-      <edge source="Manaus" target="Autazes" id="10" />
-      <edge source="Parintins" target="Nhamunda" id="11" />
-      <edge source="Parintins" target="Barreirinha" id="12" />
-      <edge source="Nhamunda" target="Maues" id="13" />
-      <edge source="Barreirinha" target="Maues" id="14" />
-      <edge source="Novo Aripuana" target="Manicore" id="15" />
-      <edge source="Novo Aripuana" target="Apui" id="16" />
-      <edge source="Novo Aripuana" target="Borba" id="17" />
-      <edge source="Manicore" target="Humaita" id="18" />
-      <edge source="Manicore" target="Borba" id="19" />
-      <edge source="Apui" target="Maues" id="20" />
-      <edge source="Apui" target="Borba" id="21" />
-      <edge source="Borba" target="Maues" id="22" />
-      <edge source="Borba" target="Manaquiri" id="23" />
-      <edge source="Borba" target="Careiro" id="24" />
-      <edge source="Borba" target="Autazes" id="25" />
-      <edge source="Humaita" target="Canutama" id="26" />
-      <edge source="Manacapuru" target="Manaquiri" id="27" />
-      <edge source="Manacapuru" target="Careiro" id="28" />
-      <edge source="Careiro" target="Manaquiri" id="29" />
-      <edge source="Careiro" target="Autazes" id="30" />
-      <edge source="Labrea" target="Boca do Acre" id="31" />
-      <edge source="Labrea" target="Canutama" id="32" />
-      <edge source="Coari" target="Tefe" id="33" />
+      <edge source="Rio Preto da Eva" target="Itacoatiara" id="0" weight="2220.4">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Rio Preto da Eva" target="Manaus" id="1" weight="1781.5">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Rio Preto da Eva" target="Presidente Figueiredo" id="2" weight="1228.7">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Itacoatiara" target="Maues" id="3" weight="2927.6">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Itacoatiara" target="Manaus" id="4" weight="2896.9">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Itacoatiara" target="Autazes" id="5" weight="2830.6">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Presidente Figueiredo" id="6" weight="1905.2">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Manacapuru" id="7" weight="1983.4">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Careiro" id="8" weight="2316.2">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Manaquiri" id="9" weight="1717.0">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manaus" target="Autazes" id="10" weight="2391.7">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Parintins" target="Nhamunda" id="11" weight="1400.1">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Parintins" target="Barreirinha" id="12" weight="1699.0">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Nhamunda" target="Maues" id="13" weight="1714.9">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Barreirinha" target="Maues" id="14" weight="2013.8">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Aripuana" target="Manicore" id="15" weight="2225.0">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Aripuana" target="Apui" id="16" weight="2347.8">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Novo Aripuana" target="Borba" id="17" weight="1301.0">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manicore" target="Humaita" id="18" weight="2068.1">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manicore" target="Borba" id="19" weight="1931.0">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Apui" target="Maues" id="20" weight="2810.0">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Apui" target="Borba" id="21" weight="2053.8">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Borba" target="Maues" id="22" weight="1763.2">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Borba" target="Manaquiri" id="23" weight="991.5">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Borba" target="Careiro" id="24" weight="1590.7">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Borba" target="Autazes" id="25" weight="1666.2">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Humaita" target="Canutama" id="26" weight="1488.7">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manacapuru" target="Manaquiri" id="27" weight="1242.4">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Manacapuru" target="Careiro" id="28" weight="1841.6">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Careiro" target="Manaquiri" id="29" weight="1575.2">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Careiro" target="Autazes" id="30" weight="2249.9">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Labrea" target="Boca do Acre" id="31" weight="4978.9">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Labrea" target="Canutama" id="32" weight="3887.7">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
+      <edge source="Coari" target="Tefe" id="33" weight="1367.1">
+        <attvalues>
+          <attvalue for="3" value="true" />
+        </attvalues>
+      </edge>
     </edges>
   </graph>
 </gexf>
