@@ -1,2 +1,4 @@
+networkx==3.2.1
 numpy==1.24.3
-pandas==2.1.2
+nx_altair==0.1.6
+pandas==2.1.3
