@@ -1,6 +1,16 @@
-# DesmatamentoNoAmazonas
-O trabalho desenvolvido extrai significado de uma amostra de dados escolhidos através da aplicação de conceitos grafos como estrutura auxiliar para análise e ciência de dados.
+# Desmatamento No Amazonas
+O trabalho desenvolvido propõe delimitar uma área de desmtamento acima da média no estado do Amazonas. Essa proposta abre espaço para estudo de significancia da correlação entre atividades socioeconomicas comuns nas regiões onde o desflorestamento raso mais ocorre no Amazonas. Afinal apesar da amostra analisada ser ter dados de 2000 até 2018, há diversas variáveis como a delimitação de Zonas Ecológicas Econômicas que se estendem no estado até o ano de 2023.
 
+# Algumas Vizualizações Obtidas com Gephi:
+<br></br>
+[Desmatamento no ano de 2000](Readme/img/AmazonasG's/2000Graph.png)
+![plot](Readme/img/AmazonasG's/2000Graph.png)
+<br></br>
+[Desmatamento no ano de 2008](Readme/img/AmazonasG's/2008Graph.png)
+![plot](Readme/img/AmazonasG's/2008Graph.png)
+<br></br>
+[Desmatamento no ano de 2018](Readme/img/AmazonasG's/2018Graph.png)
+![plot](Readme/img/AmazonasG's/2018Graph.png)
 
 <!-- 
 # Introdução
