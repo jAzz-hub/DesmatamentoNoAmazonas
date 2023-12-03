@@ -1,63 +1,63 @@
-Lat,Long,Municipio,AreaKm2,Desmatado2003,Incremento20022003,Floresta2003,NaoObservado2003,NaoFloresta2003,Hidrografia2003,Fronteiras,MaiorQueAMédia
--2.8349,-57.83095,Urucurituba,2915,91.9,2.4,133.1,0.0,1689.6,1000.4,"['Boa Vista do Ramos', 'Barreirinha', 'Itapiranga', 'Itacoatiara', 'Parintins', 'Urucara', 'Silves', 'Nhamunda']",False
--1.24938,-58.78714,Urucara,28012,324.1,6.5,26617.6,0.9,423.0,646.4,"['Nhamunda', 'Urucurituba', 'Itapiranga', 'Sao Sebastiao do Uatuma', 'Presidente Figueiredo']",False
--3.20648,-65.43058,Uarini,10448,221.8,3.2,9694.1,0.0,100.3,431.8,"['Maraa', 'Fonte Boa', 'Jurua', 'Alvaraes', 'Tefe']",False
--2.57583,-67.47268,Tonantins,6619,76.4,2.3,6157.9,1.6,67.4,315.7,"['Japura', 'Santo Antonio do Ica', 'Fonte Boa', 'Jutai']",False
--4.41301,-65.57764,Tefe,24186,592.5,15.4,22698.1,1.8,168.9,724.7,"['Tapaua', 'Maraa', 'Carauari', 'Jurua', 'Alvaraes', 'Uarini']",True
--5.93398,-65.97188,Tapaua,90962,286.7,8.3,87010.9,1.9,2161.1,1501.4,"['Itamarati', 'Pauini', 'Labrea', 'Canutama', 'Carauari', 'Tefe', 'Coari', 'Anori', 'Beruri', 'Manicore', 'Humaita']",False
--4.02878,-69.69786,Tabatinga,3343,149.3,2.9,3110.8,29.6,1.3,52.0,"['Benjamin Constant', 'Santo Antonio do Ica', 'Sao Paulo de Olivenca']",False
--2.85099,-58.49614,Silves,3758,409.4,5.5,2621.2,0.0,128.7,598.7,"['Urucurituba', 'Itacoatiara', 'Itapiranga']",False
--1.89625,-58.81001,Sao Sebastiao do Uatuma,10776,181.3,9.7,9902.7,0.5,65.7,625.8,"['Urucara', 'Presidente Figueiredo', 'Itapiranga']",False
--4.73714,-69.52392,Sao Paulo de Olivenca,20467,168.5,1.1,19624.1,0.3,86.3,587.8,"['Benjamin Constant', 'Jutai', 'Tabatinga', 'Santo Antonio do Ica', 'Amatura']",False
-0.35952,-68.17017,Sao Gabriel da Cachoeira,112476,1160.7,19.4,108690.1,370.6,489.6,1482.3,"['Japura', 'Santa Isabel do Rio Negro']",True
--3.08079,-69.06723,Santo Antonio do Ica,12737,127.1,0.7,12001.2,65.2,90.4,451.3,"['Sao Paulo de Olivenca', 'Tabatinga', 'Amatura', 'Tonantins', 'Jutai', 'Japura']",False
--0.25129,-64.98731,Santa Isabel do Rio Negro,64130,202.0,6.9,62265.2,70.9,950.8,628.3,"['Sao Gabriel da Cachoeira', 'Japura', 'Maraa', 'Barcelos']",False
--2.50853,-59.60122,Rio Preto da Eva,5838,540.2,17.0,5286.4,1.1,0.0,10.3,"['Itacoatiara', 'Manaus', 'Itapiranga', 'Presidente Figueiredo']",True
--0.65847,-60.17004,Presidente Figueiredo,25568,629.9,33.7,21509.8,5.4,1.1,3421.8,"['Rio Preto da Eva', 'Manaus', 'Novo Airao', 'Itapiranga', 'Sao Sebastiao do Uatuma', 'Urucara']",True
--7.76452,-68.19675,Pauini,42877,179.6,12.5,42409.6,2.3,23.7,261.8,"['Boca do Acre', 'Envira', 'Itamarati', 'Eirunepe', 'Tapaua', 'Labrea']",False
--2.78735,-56.68566,Parintins,5958,929.8,17.1,1613.8,0.0,1133.2,2281.2,"['Nhamunda', 'Urucurituba', 'Barreirinha']",True
--6.83379,-60.23604,Novo Aripuana,41452,599.3,34.1,38462.0,27.9,1620.2,742.6,"['Manicore', 'Apui', 'Borba']",True
--1.51628,-61.51599,Novo Airao,38114,108.3,4.6,36432.9,0.7,211.9,1358.7,"['Barcelos', 'Codajas', 'Caapiranga', 'Manacapuru', 'Manaus', 'Presidente Figueiredo']",False
--4.02487,-58.58633,Nova Olinda do Norte,5625,388.6,11.2,4524.1,0.3,281.0,431.0,"['Borba', 'Maues', 'Autazes', 'Itacoatiara']",False
--1.08094,-58.4439,Nhamunda,14132,440.9,5.8,12237.0,1.9,344.4,1107.8,"['Urucara', 'Urucurituba', 'Parintins', 'Maues']",False
--5.24148,-58.19462,Maues,40090,1203.2,24.4,36717.4,2.2,872.3,1294.9,"['Apui', 'Borba', 'Itacoatiara', 'Boa Vista do Ramos', 'Barreirinha', 'Nova Olinda do Norte']",True
--2.61234,-64.70305,Maraa,17221,101.5,13.6,14662.7,5.4,604.6,1846.7,"['Fonte Boa', 'Japura', 'Santa Isabel do Rio Negro', 'Barcelos', 'Codajas', 'Coari', 'Tefe', 'Uarini']",False
--6.78709,-61.11001,Manicore,48689,1146.1,84.0,42552.2,17.4,4146.5,826.8,"['Humaita', 'Tapaua', 'Beruri', 'Borba', 'Novo Aripuana']",True
--2.5729,-60.37242,Manaus,11473,1211.0,23.5,8711.0,0.2,3.0,1547.8,"['Manacapuru', 'Itacoatiara', 'Careiro', 'Careiro da Varzea', 'Iranduba', 'Manacapuru', 'Novo Airao', 'Presidente Figueiredo', 'Rio Preto da Eva']",True
--3.73889,-60.65552,Manaquiri,4001,483.3,8.1,3124.3,0.0,106.3,287.1,"['Manacapuru', 'Borba', 'Beruri', 'Iranduba', 'Manaus', 'Careiro']",True
--3.27671,-60.71178,Manacapuru,7381,737.5,34.8,4414.8,0.1,805.6,1423.0,"['Novo Airao', 'Caapiranga', 'Anama', 'Anori', 'Beruri', 'Manaquiri', 'Iranduba', 'Manaus']",True
--8.38295,-65.70994,Labrea,69672,2121.8,429.4,65301.4,9.6,1793.3,445.9,"['Boca do Acre', 'Pauini', 'Itamarati', 'Tapaua', 'Canutama']",True
--4.50575,-68.24058,Jutai,71756,220.0,22.2,70269.5,6.9,97.6,1161.5,"['Itamarati', 'Eirunepe', 'Benjamin Constant', 'Sao Paulo de Olivenca', 'Amatura', 'Santo Antonio do Ica', 'Tonantins', 'Fonte Boa', 'Jurua', 'Carauari']",False
--3.37471,-66.45025,Jurua,19849,134.5,7.6,18830.3,8.9,142.1,733.2,"['Carauari', 'Jutai', 'Fonte Boa', 'Uarini', 'Alvaraes', 'Tefe']",False
--1.38598,-68.79404,Japura,57555,47.7,1.5,55882.4,98.3,2.6,1520.2,"['Santo Antonio do Ica', 'Tonantins', 'Fonte Boa', 'Maraa', 'Santa Isabel do Rio Negro', 'Sao Gabriel da Cachoeira']",False
--2.54458,-58.65656,Itapiranga,4245,130.0,4.1,3787.0,0.0,155.6,172.4,"['Presidente Figueiredo', 'Sao Sebastiao do Uatuma', 'Urucara', 'Urucurituba', 'Silves', 'Rio Preto da Eva', 'Itacoatiara']",False
--6.72683,-67.90389,Itamarati,26042,112.2,2.9,25636.5,1.5,3.3,288.5,"['Envira', 'Eirunepe', 'Jutai', 'Carauari', 'Tapaua', 'Labrea', 'Pauini']",False
--3.13511,-58.81276,Itacoatiara,8927,1604.1,23.5,4827.5,0.5,829.3,1665.6,"['Autazes', 'Careiro da Varzea', 'Maues', 'Rio Preto da Eva', 'Nova Olinda do Norte', 'Manaus', 'Silves', 'Itapiranga', 'Urucurituba', 'Boa Vista do Ramos']",True
--3.08591,-60.66479,Iranduba,2229,448.6,16.6,1343.7,0.0,132.9,303.8,"['Novo Airao', 'Careiro', 'Careiro da Varzea', 'Manacapuru', 'Manaquiri', 'Manaus']",False
--7.14334,-71.42004,Ipixuna,12595,174.7,15.0,12282.9,0.6,66.6,70.2,"['Eirunepe', 'Benjamin Constant', 'Atalaia do Norte', 'Guajara']",False
--7.51084,-62.5992,Humaita,33428,592.1,10.7,28933.3,2.1,3116.3,784.2,"['Canutama', 'Tapaua', 'Manicore']",True
--7.25158,-72.74345,Guajara,7984,399.7,30.2,7370.2,0.0,206.9,7.2,"['Atalaia do Norte', 'Ipixuna']",False
--2.54594,-66.9133,Fonte Boa,12392,94.0,14.5,11329.3,2.1,154.1,812.5,"['Jutai', 'Jurua', 'Tonantins', 'Japura', 'Maraa', 'Uarini']",False
--7.61678,-70.19515,Envira,7793,189.7,26.8,7535.1,5.3,0.1,62.8,"['Pauini', 'Itamarati', 'Eirunepe']",False
--7.04074,-70.12601,Eirunepe,15608,349.4,17.9,14899.5,5.3,172.1,181.7,"['Benjamin Constant', 'Ipixuna', 'Envira', 'Itamarati', 'Jutai', 'Pauini']",False
--3.12907,-63.20401,Codajas,18944,250.7,5.4,16520.8,2.5,729.2,1440.8,"['Anama', 'Anori', 'Coari', 'Maraa', 'Barcelos', 'Novo Airao', 'Caapiranga']",False
--4.03545,-63.53466,Coari,58828,746.7,13.4,54494.9,1.4,823.1,2761.8,"['Maraa', 'Codajas', 'Tefe', 'Tapaua', 'Anori', 'Barcelos']",True
--3.30477,-59.55597,Careiro da Varzea,2641,437.7,5.4,867.3,0.2,707.8,628.0,"['Iranduba', 'Careiro', 'Manaus', 'Itacoatiara', 'Autazes']",False
--3.749,-60.14701,Careiro,6127,1062.8,32.8,4660.1,6.5,80.7,316.9,"['Iranduba', 'Manacapuru', 'Manaquiri', 'Borba', 'Autazes', 'Careiro da Varzea', 'Manaus']",True
--5.17242,-67.49476,Carauari,26469,281.5,4.3,25767.7,7.1,12.7,399.9,"['Tefe', 'Alvaraes', 'Jurua', 'Jutai', 'Itamarati', 'Tapaua']",False
--7.45596,-63.90278,Canutama,30278,609.5,105.9,28377.9,5.5,988.3,296.8,"['Labrea', 'Tapaua', 'Humaita']",True
--3.0546,-61.93934,Caapiranga,9550,227.5,10.3,8712.9,0.1,181.9,427.6,"['Anama', 'Manacapuru', 'Novo Airao', 'Codajas']",False
--5.33176,-59.23777,Borba,44452,480.7,8.6,41533.1,13.0,586.5,1838.7,"['Maues', 'Nova Olinda do Norte', 'Autazes', 'Careiro', 'Manaquiri', 'Beruri', 'Manicore', 'Novo Aripuana', 'Apui']",True
--8.81858,-68.00168,Boca do Acre,22595,1636.8,257.6,20773.9,1.9,58.4,124.0,"['Pauini', 'Labrea']",True
--3.15669,-57.90464,Boa Vista do Ramos,2588,196.4,5.9,1133.1,0.0,852.8,405.7,"['Maues', 'Barreirinha', 'Urucurituba', 'Itacoatiara']",False
--4.54242,-61.73805,Beruri,17411,197.3,5.6,15752.6,2.2,886.1,572.8,"['Manicore', 'Tapaua', 'Anori', 'Anama', 'Manacapuru', 'Manaquiri']",False
--5.49767,-70.32124,Benjamin Constant,9146,181.7,3.8,8742.9,16.6,0.0,204.8,"['Atalaia do Norte', 'Ipixuna', 'Eirunepe', 'Jutai', 'Sao Paulo de Olivenca', 'Tabatinga']",False
--3.13292,-57.23915,Barreirinha,5760,735.5,17.0,3659.8,0.0,408.6,956.1,"['Maues', 'Boa Vista do Ramos', 'Urucurituba', 'Parintins']",True
--0.14071,-63.18572,Barcelos,124163,187.8,7.5,102110.8,55.6,17060.1,4499.9,"['Santa Isabel do Rio Negro', 'Novo Airao', 'Maraa', 'Codajas', 'Coari']",False
--3.83163,-59.45109,Autazes,7636,1074.4,21.0,5081.3,0.1,464.3,1015.9,"['Manaus', 'Careiro', 'Careiro da Varzea', 'Borba', 'Itacoatiara', 'Nova Olinda do Norte']",True
--5.67098,-71.72825,Atalaia do Norte,80005,224.6,6.9,79054.0,314.0,16.5,395.9,"['Benjamin Constant', 'Guajara', 'Ipixuna']",False
--7.59202,-59.44152,Apui,54490,1097.6,51.6,52548.0,15.2,625.0,204.2,"['Novo Aripuana', 'Borba', 'Maues']",True
--4.15477,-62.08065,Anori,5852,74.0,2.0,4702.4,0.3,640.6,434.7,"['Beruri', 'Tapaua', 'Coari', 'Codajas', 'Anama']",False
--3.47332,-61.6709,Anama,2473,191.4,1.9,2028.0,0.0,34.6,219.0,"['Manacapuru', 'Beruri', 'Anori', 'Codajas', 'Caapiranga']",False
--3.42104,-68.34925,Amatura,4903,109.4,1.1,4357.6,0.0,222.4,213.6,"['Sao Paulo de Olivenca', 'Jutai', 'Santo Antonio do Ica']",False
--3.67425,-65.34586,Alvaraes,6027,289.3,9.6,5572.1,0.0,38.0,127.6,"['Tefe', 'Carauari', 'Jurua', 'Uarini']",False
+Lat,Long,Municipio,AreaKm2,Desmatado2003,Incremento20022003,Fronteiras,MaiorQueAMédia
+-2.8349,-57.83095,Urucurituba,2915,91.9,2.4,"['Boa Vista do Ramos', 'Barreirinha', 'Itapiranga', 'Itacoatiara', 'Parintins', 'Urucara', 'Silves', 'Nhamunda']",False
+-1.24938,-58.78714,Urucara,28012,324.1,6.5,"['Nhamunda', 'Urucurituba', 'Itapiranga', 'Sao Sebastiao do Uatuma', 'Presidente Figueiredo']",False
+-3.20648,-65.43058,Uarini,10448,221.8,3.2,"['Maraa', 'Fonte Boa', 'Jurua', 'Alvaraes', 'Tefe']",False
+-2.57583,-67.47268,Tonantins,6619,76.4,2.3,"['Japura', 'Santo Antonio do Ica', 'Fonte Boa', 'Jutai']",False
+-4.41301,-65.57764,Tefe,24186,592.5,15.4,"['Tapaua', 'Maraa', 'Carauari', 'Jurua', 'Alvaraes', 'Uarini']",True
+-5.93398,-65.97188,Tapaua,90962,286.7,8.3,"['Itamarati', 'Pauini', 'Labrea', 'Canutama', 'Carauari', 'Tefe', 'Coari', 'Anori', 'Beruri', 'Manicore', 'Humaita']",False
+-4.02878,-69.69786,Tabatinga,3343,149.3,2.9,"['Benjamin Constant', 'Santo Antonio do Ica', 'Sao Paulo de Olivenca']",False
+-2.85099,-58.49614,Silves,3758,409.4,5.5,"['Urucurituba', 'Itacoatiara', 'Itapiranga']",False
+-1.89625,-58.81001,Sao Sebastiao do Uatuma,10776,181.3,9.7,"['Urucara', 'Presidente Figueiredo', 'Itapiranga']",False
+-4.73714,-69.52392,Sao Paulo de Olivenca,20467,168.5,1.1,"['Benjamin Constant', 'Jutai', 'Tabatinga', 'Santo Antonio do Ica', 'Amatura']",False
+0.35952,-68.17017,Sao Gabriel da Cachoeira,112476,1160.7,19.4,"['Japura', 'Santa Isabel do Rio Negro']",True
+-3.08079,-69.06723,Santo Antonio do Ica,12737,127.1,0.7,"['Sao Paulo de Olivenca', 'Tabatinga', 'Amatura', 'Tonantins', 'Jutai', 'Japura']",False
+-0.25129,-64.98731,Santa Isabel do Rio Negro,64130,202.0,6.9,"['Sao Gabriel da Cachoeira', 'Japura', 'Maraa', 'Barcelos']",False
+-2.50853,-59.60122,Rio Preto da Eva,5838,540.2,17.0,"['Itacoatiara', 'Manaus', 'Itapiranga', 'Presidente Figueiredo']",True
+-0.65847,-60.17004,Presidente Figueiredo,25568,629.9,33.7,"['Rio Preto da Eva', 'Manaus', 'Novo Airao', 'Itapiranga', 'Sao Sebastiao do Uatuma', 'Urucara']",True
+-7.76452,-68.19675,Pauini,42877,179.6,12.5,"['Boca do Acre', 'Envira', 'Itamarati', 'Eirunepe', 'Tapaua', 'Labrea']",False
+-2.78735,-56.68566,Parintins,5958,929.8,17.1,"['Nhamunda', 'Urucurituba', 'Barreirinha']",True
+-6.83379,-60.23604,Novo Aripuana,41452,599.3,34.1,"['Manicore', 'Apui', 'Borba']",True
+-1.51628,-61.51599,Novo Airao,38114,108.3,4.6,"['Barcelos', 'Codajas', 'Caapiranga', 'Manacapuru', 'Manaus', 'Presidente Figueiredo']",False
+-4.02487,-58.58633,Nova Olinda do Norte,5625,388.6,11.2,"['Borba', 'Maues', 'Autazes', 'Itacoatiara']",False
+-1.08094,-58.4439,Nhamunda,14132,440.9,5.8,"['Urucara', 'Urucurituba', 'Parintins', 'Maues']",False
+-5.24148,-58.19462,Maues,40090,1203.2,24.4,"['Apui', 'Borba', 'Itacoatiara', 'Boa Vista do Ramos', 'Barreirinha', 'Nova Olinda do Norte']",True
+-2.61234,-64.70305,Maraa,17221,101.5,13.6,"['Fonte Boa', 'Japura', 'Santa Isabel do Rio Negro', 'Barcelos', 'Codajas', 'Coari', 'Tefe', 'Uarini']",False
+-6.78709,-61.11001,Manicore,48689,1146.1,84.0,"['Humaita', 'Tapaua', 'Beruri', 'Borba', 'Novo Aripuana']",True
+-2.5729,-60.37242,Manaus,11473,1211.0,23.5,"['Manacapuru', 'Itacoatiara', 'Careiro', 'Careiro da Varzea', 'Iranduba', 'Manacapuru', 'Novo Airao', 'Presidente Figueiredo', 'Rio Preto da Eva']",True
+-3.73889,-60.65552,Manaquiri,4001,483.3,8.1,"['Manacapuru', 'Borba', 'Beruri', 'Iranduba', 'Manaus', 'Careiro']",True
+-3.27671,-60.71178,Manacapuru,7381,737.5,34.8,"['Novo Airao', 'Caapiranga', 'Anama', 'Anori', 'Beruri', 'Manaquiri', 'Iranduba', 'Manaus']",True
+-8.38295,-65.70994,Labrea,69672,2121.8,429.4,"['Boca do Acre', 'Pauini', 'Itamarati', 'Tapaua', 'Canutama']",True
+-4.50575,-68.24058,Jutai,71756,220.0,22.2,"['Itamarati', 'Eirunepe', 'Benjamin Constant', 'Sao Paulo de Olivenca', 'Amatura', 'Santo Antonio do Ica', 'Tonantins', 'Fonte Boa', 'Jurua', 'Carauari']",False
+-3.37471,-66.45025,Jurua,19849,134.5,7.6,"['Carauari', 'Jutai', 'Fonte Boa', 'Uarini', 'Alvaraes', 'Tefe']",False
+-1.38598,-68.79404,Japura,57555,47.7,1.5,"['Santo Antonio do Ica', 'Tonantins', 'Fonte Boa', 'Maraa', 'Santa Isabel do Rio Negro', 'Sao Gabriel da Cachoeira']",False
+-2.54458,-58.65656,Itapiranga,4245,130.0,4.1,"['Presidente Figueiredo', 'Sao Sebastiao do Uatuma', 'Urucara', 'Urucurituba', 'Silves', 'Rio Preto da Eva', 'Itacoatiara']",False
+-6.72683,-67.90389,Itamarati,26042,112.2,2.9,"['Envira', 'Eirunepe', 'Jutai', 'Carauari', 'Tapaua', 'Labrea', 'Pauini']",False
+-3.13511,-58.81276,Itacoatiara,8927,1604.1,23.5,"['Autazes', 'Careiro da Varzea', 'Maues', 'Rio Preto da Eva', 'Nova Olinda do Norte', 'Manaus', 'Silves', 'Itapiranga', 'Urucurituba', 'Boa Vista do Ramos']",True
+-3.08591,-60.66479,Iranduba,2229,448.6,16.6,"['Novo Airao', 'Careiro', 'Careiro da Varzea', 'Manacapuru', 'Manaquiri', 'Manaus']",False
+-7.14334,-71.42004,Ipixuna,12595,174.7,15.0,"['Eirunepe', 'Benjamin Constant', 'Atalaia do Norte', 'Guajara']",False
+-7.51084,-62.5992,Humaita,33428,592.1,10.7,"['Canutama', 'Tapaua', 'Manicore']",True
+-7.25158,-72.74345,Guajara,7984,399.7,30.2,"['Atalaia do Norte', 'Ipixuna']",False
+-2.54594,-66.9133,Fonte Boa,12392,94.0,14.5,"['Jutai', 'Jurua', 'Tonantins', 'Japura', 'Maraa', 'Uarini']",False
+-7.61678,-70.19515,Envira,7793,189.7,26.8,"['Pauini', 'Itamarati', 'Eirunepe']",False
+-7.04074,-70.12601,Eirunepe,15608,349.4,17.9,"['Benjamin Constant', 'Ipixuna', 'Envira', 'Itamarati', 'Jutai', 'Pauini']",False
+-3.12907,-63.20401,Codajas,18944,250.7,5.4,"['Anama', 'Anori', 'Coari', 'Maraa', 'Barcelos', 'Novo Airao', 'Caapiranga']",False
+-4.03545,-63.53466,Coari,58828,746.7,13.4,"['Maraa', 'Codajas', 'Tefe', 'Tapaua', 'Anori', 'Barcelos']",True
+-3.30477,-59.55597,Careiro da Varzea,2641,437.7,5.4,"['Iranduba', 'Careiro', 'Manaus', 'Itacoatiara', 'Autazes']",False
+-3.749,-60.14701,Careiro,6127,1062.8,32.8,"['Iranduba', 'Manacapuru', 'Manaquiri', 'Borba', 'Autazes', 'Careiro da Varzea', 'Manaus']",True
+-5.17242,-67.49476,Carauari,26469,281.5,4.3,"['Tefe', 'Alvaraes', 'Jurua', 'Jutai', 'Itamarati', 'Tapaua']",False
+-7.45596,-63.90278,Canutama,30278,609.5,105.9,"['Labrea', 'Tapaua', 'Humaita']",True
+-3.0546,-61.93934,Caapiranga,9550,227.5,10.3,"['Anama', 'Manacapuru', 'Novo Airao', 'Codajas']",False
+-5.33176,-59.23777,Borba,44452,480.7,8.6,"['Maues', 'Nova Olinda do Norte', 'Autazes', 'Careiro', 'Manaquiri', 'Beruri', 'Manicore', 'Novo Aripuana', 'Apui']",True
+-8.81858,-68.00168,Boca do Acre,22595,1636.8,257.6,"['Pauini', 'Labrea']",True
+-3.15669,-57.90464,Boa Vista do Ramos,2588,196.4,5.9,"['Maues', 'Barreirinha', 'Urucurituba', 'Itacoatiara']",False
+-4.54242,-61.73805,Beruri,17411,197.3,5.6,"['Manicore', 'Tapaua', 'Anori', 'Anama', 'Manacapuru', 'Manaquiri']",False
+-5.49767,-70.32124,Benjamin Constant,9146,181.7,3.8,"['Atalaia do Norte', 'Ipixuna', 'Eirunepe', 'Jutai', 'Sao Paulo de Olivenca', 'Tabatinga']",False
+-3.13292,-57.23915,Barreirinha,5760,735.5,17.0,"['Maues', 'Boa Vista do Ramos', 'Urucurituba', 'Parintins']",True
+-0.14071,-63.18572,Barcelos,124163,187.8,7.5,"['Santa Isabel do Rio Negro', 'Novo Airao', 'Maraa', 'Codajas', 'Coari']",False
+-3.83163,-59.45109,Autazes,7636,1074.4,21.0,"['Manaus', 'Careiro', 'Careiro da Varzea', 'Borba', 'Itacoatiara', 'Nova Olinda do Norte']",True
+-5.67098,-71.72825,Atalaia do Norte,80005,224.6,6.9,"['Benjamin Constant', 'Guajara', 'Ipixuna']",False
+-7.59202,-59.44152,Apui,54490,1097.6,51.6,"['Novo Aripuana', 'Borba', 'Maues']",True
+-4.15477,-62.08065,Anori,5852,74.0,2.0,"['Beruri', 'Tapaua', 'Coari', 'Codajas', 'Anama']",False
+-3.47332,-61.6709,Anama,2473,191.4,1.9,"['Manacapuru', 'Beruri', 'Anori', 'Codajas', 'Caapiranga']",False
+-3.42104,-68.34925,Amatura,4903,109.4,1.1,"['Sao Paulo de Olivenca', 'Jutai', 'Santo Antonio do Ica']",False
+-3.67425,-65.34586,Alvaraes,6027,289.3,9.6,"['Tefe', 'Carauari', 'Jurua', 'Uarini']",False
